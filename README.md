@@ -4,7 +4,7 @@
     
     I’m looking for internship.
     
-    I have following skills: C, python, java, data structure and algorithm, html, OpenCV,SQL.
+    I have following skills: C, python, java, data structure and algorithm, html, OpenCV, SQL.
     
     Also familiar with: CSS, Javascript
     
