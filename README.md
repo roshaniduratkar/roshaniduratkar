@@ -2,8 +2,6 @@
     
     A computer engineering student at Bajaj Institute of Technology, Wardha.
     
-    I’m interested in python 
-    
     I’m looking for internship.
     
     I have following skills: C, python, java, data structure and algorithm, html, OpenCV,SQL.
